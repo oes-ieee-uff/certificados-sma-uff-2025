@@ -20,15 +20,20 @@ Todos os certificados foram:
 - Assinados e gerados por meio de um sistema automatizado em Python;
 - Publicados com transparência e validade pública.
 
-Caso necessite confirmar a autenticidade de qualquer certificado, utilize esta plataforma ou entre em contato com os organizadores via oes.ieeeuff@gmail.com.
+Caso necessite confirmar a autenticidade de qualquer certificado, utilize esta plataforma ou entre em contato com os organizadores via [oes.ieeeuff@gmail.com](mailto:oes.ieeeuff@gmail.com).
 
-## 🤝 Organização
+## Organização
 
 Este evento foi organizado pela equipe da **IEEE Oceanic Engineering Society - UFF Student Branch**, em parceria com outros ramos estudantis e laboratórios da UFF.
 
-## 🧾 Licença
+## Licença
 
 Este repositório é de uso público e educativo. Os certificados emitidos são de propriedade dos participantes e qualquer tentativa de falsificação será passível de investigação.
+
+> Sistema desenvolvido integralmente em **Python**, **Google Colab** e **HTML** por [a.belem](https://github.com/andrebelem).  
+> © 2025 Todos os direitos reservados.
+
+
 
 
 
