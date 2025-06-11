@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Validação de Certificados - I SMA UFF</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 3rem;
+      background-color: #f4f4f4;
+    }
+    h1 {
+      color: #0074D9;
+      margin-top: 2rem;
+    }
+    input[type="text"] {
+      padding: 0.5rem;
+      width: 300px;
+      font-size: 1rem;
+      margin-top: 1rem;
+    }
+    button {
+      padding: 0.5rem 1rem;
+      font-size: 1rem;
+      margin-top: 1rem;
+      cursor: pointer;
+    }
+    .link {
+      margin-top: 2rem;
+    }
+    .logo {
+      max-width: 200px;
+      margin: 0 auto;
+      display: block;
+    }
+    footer {
+      margin-top: 4rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Logo superior -->
+  <img src="SMA-2025-logo.png" alt="Logo SMA 2025" class="logo">
+
+  <h1>Validação de Certificados</h1>
+  <p>Digite o código de verificação (hash) que consta no QR Code do seu certificado:</p>
+
+  <input type="text" id="hashInput" placeholder="Ex: a1b2c3d4e5">
+  <br>
+  <button onclick="verificarCertificado()">Verificar</button>
+
+  <div class="link" id="resultado"></div>
+
+  <!-- Logo inferior -->
+  <footer>
+    <img src="oes-ieee.png" alt="Logo IEEE OES" class="logo">
+  </footer>
+
+  <script>
+    function verificarCertificado() {
+      const hash = document.getElementById("hashInput").value.trim();
+      if (hash) {
+        const url = `validar/${hash}.html`;
+        document.getElementById("resultado").innerHTML = 
+          `<p><a href="${url}" target="_blank">Clique aqui para ver o certificado</a></p>`;
+      } else {
+        document.getElementById("resultado").innerHTML = "<p>Por favor, insira um código válido.</p>";
+      }
+    }
+  </script>
+</body>
+</html>
