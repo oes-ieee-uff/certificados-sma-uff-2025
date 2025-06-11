@@ -1,4 +1,4 @@
-# Certificados - I Semana de Meio Ambiente da UFF (2025)
+# Certificados da I Semana de Meio Ambiente da UFF (2025)
 
 Este repositório público tem como objetivo permitir a **validação digital dos certificados** emitidos durante a **I Semana de Meio Ambiente da Universidade Federal Fluminense**, organizada pela **IEEE OES UFF** entre os dias **04 e 07 de Junho de 2025**.
 
