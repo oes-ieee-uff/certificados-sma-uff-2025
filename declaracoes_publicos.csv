@@ -1,3 +1,40 @@
-nome,participacao,atividade,data,local,hash_validador
-João de Lima Fernandez,conferencista,Mesa-Redonda sobre Justiça Climática,"dia 04 de Junho de 2025, das 9h às 10h30 (duração: uma hora e trinta minutos)","Auditório da Escola de Engenharia, Campus Praia Vermelha",6a06a2860d
-Maria Souza,guia,Oficina de Monitoramento Costeiro,"dia 04 de Junho de 2025, das 9h às 11h00 (duração: duas horas)","Trilha Ecológica do Morro do Morcego, Niterói",90f2c2ffb5
+nome,participacao,atividade,data_texto,hash_validador
+Ivanovich Lache Salcedo,Palestrante,Abertura da 1ª Semana de Meio Ambiente da Universidade Federal Fluminense,"04 de junho de 2025, das 9:00 às 10:30 (duração 1h30)",074e3ec05e
+Luciano Paez,Palestrante,Abertura da 1ª Semana de Meio Ambiente da Universidade Federal Fluminense e Mesa-Redonda: Justiça climática.,"04 de junho de 2025, das 9:00 às 12:00 (duração 3h)",9fef24af0f
+Felix Carriello,Palestrante,Abertura da 1ª Semana de Meio Ambiente da Universidade Federal Fluminense,"04 de junho de 2025, das 9:00 às 10:30 (duração 1h30)",c0bdca5fe2
+Virna Barbosa Vieira,Mediador,Abertura da 1ª Semana de Meio Ambiente da Universidade Federal Fluminense,"04 de junho de 2025, das 9:00 às 10:30 (duração 1h30)",0fff84093c
+Rafael Ribeiro Ramos Pinto,Palestrante,Abertura da 1ª Semana de Meio Ambiente da Universidade Federal Fluminense,"04 de junho de 2025, das 9:00 às 10:30 (duração 1h30)",a4df214209
+Rafael Ribeiro Ramos Pinto,Palestrante,Oficina de Arduino para Monitoramento Ambiental,"05 de junho de 2025, das 17:00 às 20:00 (duração 3h)",8ef2ea5a52
+Roberta Oliveira Lima,Palestrante,Mesa-Redonda: Justiça Climática,"04 de junho de 2025, das 10:30 às 12:00 (duração 1h30)",005856365a
+Gisele Moura Camargo,Palestrante,Mesa-Redonda: Justiça Climática,"04 de junho de 2025, das 10:30 às 12:00 (duração 1h30)",f5468fc961
+Cristina Beatriz Teper,Palestrante,Mesa-Redonda: Oceanos Invisíveis - Os Microecossistemas Marinhos e Suas Funções Cruciais para a Vida no Planeta,"04 de junho de 2025, das 13:00 às 14:40 (duração 1h40)",03d3dc9133
+Beatriz Guimarães Gomes,Palestrante,Mesa-Redonda: Oceanos Invisíveis - Os Microecossistemas Marinhos e Suas Funções Cruciais para a Vida no Planeta,"04 de junho de 2025, das 13:00 às 14:40 (duração 1h40)",e9f2a43fd9
+Rodrigo Amado Garcia Silva,Palestrante,Mesa-Redonda: Relevância de uma gestão costeira eficiente,"04 de junho de 2025, das 14:40 às 16:20 (duração 1h40)",224c95f6b5
+Fábio Ferreira Dias,Palestrante,Mesa-Redonda: Relevância de uma gestão costeira eficiente,"04 de junho de 2025, das 14:40 às 16:20 (duração 1h40)",4afbb48615
+Franciele Zanandrea,Palestrante,Mesa-Redonda: Mudanças climáticas como potencializador de Desastres,"04 de junho de 2025, das 18:00 às 20:00 (duração 2h)",8b57b12ad0
+Gean Paulo Michel,Palestrante,Mesa-Redonda: Mudanças climáticas como potencializador de Desastres,"04 de junho de 2025, das 18:00 às 20:00 (duração 2h)",2c2abda6a5
+Eduardo de Almeida Xavier,Palestrante,Mesa-Redonda: Economia Circular,"05 de junho de 2025, das 9:00 às 11:00 (duração 2h)",7075b178a1
+Carolina Maria Zoccoli Carneiro,Palestrante,Mesa-Redonda: Economia Circular,"05 de junho de 2025, das 9:00 às 11:00 (duração 2h)",f5e8716387
+Reinaldo Silva Abreu,Palestrante,Mesa-Redonda: Economia Circular,"05 de junho de 2025, das 9:00 às 11:00 (duração 2h)",50d821fc7f
+Daniel Henrique Nogueira Dias,Palestrante,Mesa-Redonda: O desafio da intermitencia da energia renovável,"05 de junho de 2025, das 11:00 às 13:00 (duração 2h)",7b66afbcee
+Annelys Machado Schetinger,Palestrante,Mesa-Redonda: O desafio da intermitencia da energia renovável,"05 de junho de 2025, das 11:00 às 13:00 (duração 2h)",9d951b3eec
+Renan Pinto Fernandes,Palestrante,Mesa-Redonda: O desafio da intermitencia da energia renovável,"05 de junho de 2025, das 11:00 às 13:00 (duração 2h)",12116abdfd
+Thiago Pagano,Palestrante,Mesa-Redonda: O desafio da intermitencia da energia renovável,"05 de junho de 2025, das 11:00 às 13:00 (duração 2h)",1efa16b595
+Diego Luiz Fonseca em nome da Associação de Engenheiros Ambientais e Sanitaristas do Rio de Janeiro,Palestrante,Mesa redonda: Ex-alunos - Oportunidades de atuação,"05 de junho de 2025, das 14:00 às 16:00 (duração 2h)",79b2200478
+"Gabriel Brazo Sabino da Silva
+",Mediador,Mesa redonda: Ex-alunos - Oportunidades de atuação,"05 de junho de 2025, das 14:00 às 16:00 (duração 2h)",3b2a5a2f02
+Larissa Quintes,Palestrante,Mesa redonda: Ex-alunos - Oportunidades de atuação,"05 de junho de 2025, das 14:00 às 16:00 (duração 2h)",f6c136b5fd
+Juan Felippe Vasconcellos,Palestrante,Mesa redonda: Ex-alunos - Oportunidades de atuação,"05 de junho de 2025, das 14:00 às 16:00 (duração 2h)",a1e7592c00
+Júlia da Costa Sena Gueiros,Palestrante,Mesa redonda: Ex-alunos - Oportunidades de atuação,"05 de junho de 2025, das 14:00 às 16:00 (duração 2h)",c26f3ddab2
+Pedro Guedes Guimarães,Palestrante,Oficina de Arduino para Monitoramento Ambiental,"05 de junho de 2025, das 17:00 às 20:00 (duração 3h)",d5932b1e2a
+Wilson Thadeu Valle Machado,Palestrante,Mesa-Redonda: Ciclo global de poluição por microplásticos,"06 de junho de 2025, das 9:00 às 11:00 (duração 2h)",7d246a2f4d
+José Antonio Baptista Neto,Palestrante,Mesa-Redonda: Ciclo global de poluição por microplásticos,"06 de junho de 2025, das 9:00 às 11:00 (duração 2h)",7a1bd6fa31
+André Luiz Belém,Mediador,Mesa-Redonda: Justiça Climática,"04 de junho de 2025, das 10:30 às 12:00 (duração 1h30)",bea8c13744
+André Luiz Belém,Mediador,Mesa-Redonda: Oceanos Invisíveis - Os Microecossistemas Marinhos e Suas Funções Cruciais para a Vida no Planeta,"04 de junho de 2025, das 13:00 às 14:40 (duração 1h40)",e95e693bef
+André Luiz Belém,Mediador,Mesa-Redonda: Mudanças climáticas como potencializador de Desastres,"04 de junho de 2025, das 18:00 às 20:00 (duração 2h)",27d138c59c
+Marcelo Barros Curvelo,Mediador,Mesa-Redonda: Ciclo global de poluição por microplásticos,"06 de junho de 2025, das 9:00 às 11:00 (duração 2h)",f10d688592
+André Luiz Belém,Mediador,Mesa-Redonda: Economia Circular,"05 de junho de 2025, das 9:00 às 11:00 (duração 2h)",8352b96661
+Daniel Maia Ramos,Mediador,Mesa-Redonda: Relevância de uma gestão costeira eficiente,"04 de junho de 2025, das 14:40 às 16:20 (duração 1h40)",8ba2a26399
+Alex Faria Figueredo,Guia Outdoor,"Trilha ecológia do Morro do Morcego, Parque Natural Municipal Dora Hees de Negreiros","06 de junho de 2025, das 13:00 às 17:00 (duração 4h)",fee751a47f
+André Luiz Belém,Guia Outdoor,"Trilha ecológia do Morro do Morcego, Parque Natural Municipal Dora Hees de Negreiros","06 de junho de 2025, das 13:00 às 17:00 (duração 4h)",0753955991
+Ricardo Dumans,Guia Outdoor,"Trilha ecológia do Morro do Morcego, Parque Natural Municipal Dora Hees de Negreiros","06 de junho de 2025, das 13:00 às 17:00 (duração 4h)",da938a20da
